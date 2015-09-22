@@ -1,3 +1,4 @@
+#test
 class TickTackToe
 	attr_reader :slots, :player_choice, :computer_choice, :win_combos
 	$board_array = [1,2,3,4,5,6,7,8,9]
